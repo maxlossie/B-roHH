@@ -1,5 +1,18 @@
 { "backgroundcolor":"#6b6b6b",
- "compressionlevel":0,
+ "compressionlevel":-1,
+ "editorsettings":
+    {
+     "chunksize":
+        {
+         "height":32,
+         "width":32
+        },
+     "export":
+        {
+         "format":"json",
+         "target":"map.json"
+        }
+    },
  "height":92,
  "infinite":false,
  "layers":[
