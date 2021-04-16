@@ -159,10 +159,6 @@
  "tileheight":32,
  "tilesets":[
         {
-         "firstgid":1,
-         "source":"inside.tsx"
-        }, 
-        {
          "columns":16,
          "firstgid":257,
          "image":"tilesets_deviant_milkian_1.png",
