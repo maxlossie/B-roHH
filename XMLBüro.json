@@ -169,7 +169,7 @@
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
-         "name":"tilesets_deviant_milkian_1",
+         "name":"Office HH",
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -616,7 +616,6 @@
                         }]
                 }],
          "tilewidth":32,
-         "transparentcolor":"#000000"
         }, 
         {
          "columns":8,
@@ -630,7 +629,6 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32,
-         "transparentcolor":"#000000"
         }],
  "tilewidth":32,
  "type":"map",
