@@ -601,7 +601,7 @@
                          "type":"bool",
                          "value":true
                         }]
-                },],
+                }],
          "tilewidth":32,
          "transparentcolor":"#000000"
         }, 
