@@ -158,14 +158,46 @@
  "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
-        {
+      {
+         "columns":16,
+         "firstgid":1,
+         "image":"inside.png",
+         "imageheight":336,
+         "imagewidth":512,
+         "margin":0,
+         "name":"inside",
+         "Spacing":0,
+         "tilecount":160,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":27,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                },
+                {
+                 "id":54,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],         
+         "tilewidth":32,
+      }
+      {
          "columns":16,
          "firstgid":257,
          "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
-         "name":"Office HH",
+         "name":"tilesets_deviant_milkian_1",
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
