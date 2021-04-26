@@ -158,7 +158,7 @@
  "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
-      {
+       {
          "columns":16,
          "firstgid":1,
          "image":"inside.png",
@@ -189,8 +189,8 @@
                         }]
                 }],         
          "tilewidth":32,
-      },
-      {
+       },
+       {
          "columns":16,
          "firstgid":257,
          "image":"tilesets_deviant_milkian_1.png",
