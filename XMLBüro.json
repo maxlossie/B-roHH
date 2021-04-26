@@ -189,7 +189,7 @@
                         }]
                 }],         
          "tilewidth":32,
-      }
+      },
       {
          "columns":16,
          "firstgid":257,
