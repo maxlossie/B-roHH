@@ -644,8 +644,8 @@
                         }]
                 }],
          "tilewidth":32,
-        }, 
-        {
+       }, 
+       {
          "columns":8,
          "firstgid":769,
          "image":"floortileset.png",
@@ -657,7 +657,7 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32,
-        }],
+       }],
  "tilewidth":32,
  "type":"map",
  "version":1.5,
