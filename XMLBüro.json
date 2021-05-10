@@ -188,7 +188,7 @@
                          "value":true
                         }]
                 }],         
-         "tilewidth":32,
+         "tilewidth":32
        },
        {
          "columns":16,
@@ -643,7 +643,7 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32,
+         "tilewidth":32
        }, 
        {
          "columns":8,
@@ -656,7 +656,7 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
-         "tilewidth":32,
+         "tilewidth":32
        }],
  "tilewidth":32,
  "type":"map",
