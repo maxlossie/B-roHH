@@ -10,7 +10,7 @@
      "export":
         {
          "format":"json",
-         "target":"XMLBüro.json"
+         "target":"XMLB\u00fcro.json"
         }
     },
  "height":92,
